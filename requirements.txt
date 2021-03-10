@@ -1,0 +1,1 @@
+https://github.com/flyteorg/flytekit/archive/d66405e7f04423d3cdcdf38675eab1ce3c97348b.zip#egg=flytekit
